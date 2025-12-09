@@ -1,0 +1,448 @@
+frame_idx,time_sec,active_side,left_elbow_angle,left_rep_count,left_good_form,left_rom_ok,left_torso_stable,left_elbow_near_torso,left_wrist_ok,left_messages,right_elbow_angle,right_rep_count,right_good_form,right_rom_ok,right_torso_stable,right_elbow_near_torso,right_wrist_ok,right_messages
+0,0.0,left,1.173198376898466,0,True,True,True,True,True,Static hold – posture looks solid.,47.22296777634084,0,True,True,True,True,True,Static hold – posture looks solid.
+1,0.03333333333333333,left,1.1510987280103915,0,True,True,True,True,True,Static hold – posture looks solid.,47.16562356792001,0,True,True,True,True,True,Static hold – posture looks solid.
+2,0.06666666666666667,left,1.8394231443241307,0,True,True,True,True,True,Static hold – posture looks solid.,47.10879032936892,0,True,True,True,True,True,Static hold – posture looks solid.
+3,0.1,left,2.8406815388683784,0,True,True,True,True,True,Static hold – posture looks solid.,46.32531848015859,0,True,True,True,True,True,Static hold – posture looks solid.
+4,0.13333333333333333,left,4.0340224524889905,0,True,True,True,True,True,Static hold – posture looks solid.,45.54155707975217,0,True,True,True,True,True,Static hold – posture looks solid.
+5,0.16666666666666666,left,4.891955259817075,0,True,True,True,True,True,Static hold – posture looks solid.,44.805049105502654,0,True,True,True,True,True,Static hold – posture looks solid.
+6,0.2,left,5.4248768770913545,0,True,True,True,True,True,Static hold – posture looks solid.,44.06353618387539,0,True,True,True,True,True,Static hold – posture looks solid.
+7,0.23333333333333334,left,5.791346133715035,0,True,True,True,True,True,Static hold – posture looks solid.,43.31638980368163,0,True,True,True,True,True,Static hold – posture looks solid.
+8,0.26666666666666666,left,6.2848042670347875,0,True,True,True,True,True,Static hold – posture looks solid.,42.35586134237557,0,True,True,True,True,True,Static hold – posture looks solid.
+9,0.3,left,7.4815123867806115,0,True,True,True,True,True,Static hold – posture looks solid.,40.87685014559591,0,True,True,True,True,True,Static hold – posture looks solid.
+10,0.3333333333333333,left,8.801724891155656,0,True,True,True,True,True,Static hold – posture looks solid.,39.245753354524986,0,True,True,True,True,True,Static hold – posture looks solid.
+11,0.36666666666666664,left,9.863041202182195,0,True,True,True,True,True,Static hold – posture looks solid.,37.49834200991488,0,True,True,True,True,True,Static hold – posture looks solid.
+12,0.4,left,10.768249299221845,0,True,True,True,True,True,Static hold – posture looks solid.,36.04906195872365,0,True,True,True,True,True,Static hold – posture looks solid.
+13,0.43333333333333335,left,11.283961214881113,0,True,True,True,True,True,Static hold – posture looks solid.,34.743038644936036,0,True,True,True,True,True,Static hold – posture looks solid.
+14,0.4666666666666667,left,11.866901519922319,0,True,True,True,True,True,Static hold – posture looks solid.,33.64779349801024,0,True,True,True,True,True,Static hold – posture looks solid.
+15,0.5,left,12.578204203108033,0,True,True,True,True,True,Static hold – posture looks solid.,32.694773373680306,0,True,True,True,True,True,Static hold – posture looks solid.
+16,0.5333333333333333,left,13.4746727015442,0,True,True,True,True,True,Static hold – posture looks solid.,31.974263645999017,0,True,True,True,True,True,Static hold – posture looks solid.
+17,0.5666666666666667,left,14.149339833106445,0,True,True,True,True,True,Static hold – posture looks solid.,31.785646260533593,0,True,True,True,True,True,Static hold – posture looks solid.
+18,0.6,left,14.671268221986805,0,True,True,True,True,True,Static hold – posture looks solid.,31.83322986630613,0,True,True,True,True,True,Static hold – posture looks solid.
+19,0.6333333333333333,left,15.093278160822527,0,True,True,True,True,True,Static hold – posture looks solid.,32.19794922167985,0,True,True,True,True,True,Static hold – posture looks solid.
+20,0.6666666666666666,left,15.474001010847624,0,True,True,True,True,True,Static hold – posture looks solid.,32.88767847486576,0,True,True,True,True,True,Static hold – posture looks solid.
+21,0.7,left,15.591731473577646,0,True,True,True,True,True,Static hold – posture looks solid.,33.62952863580651,0,True,True,True,True,True,Static hold – posture looks solid.
+22,0.7333333333333333,left,15.576374732058452,0,True,True,True,True,True,Static hold – posture looks solid.,34.701612630428,0,True,True,True,True,True,Static hold – posture looks solid.
+23,0.7666666666666667,left,15.364982408599921,0,True,True,True,True,True,Static hold – posture looks solid.,36.06660086662255,0,True,True,True,True,True,Static hold – posture looks solid.
+24,0.8,left,15.001496340012302,0,True,True,True,True,True,Static hold – posture looks solid.,37.69524247251758,0,True,True,True,True,True,Static hold – posture looks solid.
+25,0.8333333333333334,left,14.426362543566057,0,True,True,True,True,True,Static hold – posture looks solid.,39.44824860604242,0,True,True,True,True,True,Static hold – posture looks solid.
+26,0.8666666666666667,left,13.756334117075468,0,True,True,True,True,True,Static hold – posture looks solid.,41.321560919306734,0,True,True,True,True,True,Static hold – posture looks solid.
+27,0.9,left,12.947624995126198,0,True,True,True,True,True,Static hold – posture looks solid.,43.25426688614125,0,True,True,True,True,True,Static hold – posture looks solid.
+28,0.9333333333333333,left,11.939836489913654,0,True,True,True,True,True,Static hold – posture looks solid.,45.37672144982253,0,True,True,True,True,True,Static hold – posture looks solid.
+29,0.9666666666666667,left,11.068382905709077,0,True,True,True,True,True,Static hold – posture looks solid.,47.762996135073585,0,True,True,True,True,True,Static hold – posture looks solid.
+30,1.0,left,10.248324906699985,0,True,True,True,True,True,Static hold – posture looks solid.,50.40805884380556,0,True,True,True,True,True,Static hold – posture looks solid.
+31,1.0333333333333334,left,9.498255583380905,0,True,True,True,True,True,Static hold – posture looks solid.,53.249873269999256,0,True,True,True,True,True,Good curl mechanics in this frame.
+32,1.0666666666666667,left,8.954011422479075,0,True,True,True,True,True,Static hold – posture looks solid.,56.23123586447169,0,True,True,True,True,True,Good curl mechanics in this frame.
+33,1.1,left,8.395870195549957,0,True,True,True,True,True,Static hold – posture looks solid.,59.16930542786903,0,True,True,True,True,True,Good curl mechanics in this frame.
+34,1.1333333333333333,left,8.08782719672949,0,True,True,True,True,True,Static hold – posture looks solid.,62.287553010751964,0,True,True,True,True,True,Good curl mechanics in this frame.
+35,1.1666666666666667,left,7.286373452565477,0,True,True,True,True,True,Static hold – posture looks solid.,65.73756000474235,0,True,True,True,True,True,Good curl mechanics in this frame.
+36,1.2,left,6.529209012720887,0,True,True,True,True,True,Static hold – posture looks solid.,69.14569024024941,0,True,True,True,True,True,Good curl mechanics in this frame.
+37,1.2333333333333334,left,6.900657945179814,0,True,True,True,True,True,Static hold – posture looks solid.,72.57070513183923,0,False,False,True,True,True,Increase curl depth for better range of motion.
+38,1.2666666666666666,left,7.599015431809594,0,True,True,True,True,True,Static hold – posture looks solid.,76.05874562336871,0,False,False,True,True,True,Increase curl depth for better range of motion.
+39,1.3,left,13.278223438994198,0,True,True,True,True,True,Good curl mechanics in this frame.,79.76957763111062,0,False,False,True,True,True,Increase curl depth for better range of motion.
+40,1.3333333333333333,left,20.998570291368512,0,True,True,True,True,True,Good curl mechanics in this frame.,83.4229453705164,0,False,False,True,True,True,Increase curl depth for better range of motion.
+41,1.3666666666666667,left,32.341741884892585,0,True,True,True,True,True,Good curl mechanics in this frame.,87.11228438813423,0,False,False,True,True,True,Increase curl depth for better range of motion.
+42,1.4,left,43.34873592522144,0,True,True,True,True,True,Good curl mechanics in this frame.,91.23174530905733,0,False,False,True,True,True,Increase curl depth for better range of motion.
+43,1.4333333333333333,left,46.42783491295546,0,True,True,True,True,True,Good curl mechanics in this frame.,95.41462857514263,0,False,False,True,True,True,Increase curl depth for better range of motion.
+44,1.4666666666666666,left,54.857472663795214,0,True,True,True,True,True,Good curl mechanics in this frame.,99.75533707105993,0,False,False,True,True,True,Increase curl depth for better range of motion.
+45,1.5,left,66.78648899655978,0,True,True,True,True,True,Good curl mechanics in this frame.,104.27081603915799,0,False,False,True,True,True,Increase curl depth for better range of motion.
+46,1.5333333333333334,left,80.58864870095445,0,False,False,True,True,True,Increase curl depth for better range of motion.,108.79008485362846,0,False,False,True,True,True,Increase curl depth for better range of motion.
+47,1.5666666666666667,left,94.06334966721694,0,False,False,True,True,True,Increase curl depth for better range of motion.,113.23294565069793,0,False,False,True,True,True,Increase curl depth for better range of motion.
+48,1.6,left,103.60292012677314,0,False,False,True,True,True,Increase curl depth for better range of motion.,117.52781701626685,0,False,False,True,True,True,Increase curl depth for better range of motion.
+49,1.6333333333333333,left,111.7761660524711,0,False,False,True,True,True,Increase curl depth for better range of motion.,121.61474905543034,0,False,False,True,True,True,Increase curl depth for better range of motion.
+50,1.6666666666666667,left,116.93280096523583,0,False,False,True,True,True,Increase curl depth for better range of motion.,125.44887683243726,0,False,False,True,True,True,Increase curl depth for better range of motion.
+51,1.7,left,123.02208729892452,0,False,False,True,True,True,Increase curl depth for better range of motion.,128.97720548551186,0,False,False,True,True,True,Increase curl depth for better range of motion.
+52,1.7333333333333334,right,137.18422107464076,0,False,False,True,True,True,Increase curl depth for better range of motion.,131.96980124085815,0,False,False,True,True,True,Increase curl depth for better range of motion.
+53,1.7666666666666666,right,146.8152510828048,0,False,False,True,True,True,Increase curl depth for better range of motion.,134.43841222097947,0,False,False,True,True,True,Increase curl depth for better range of motion.
+54,1.8,right,153.5933504419977,0,True,True,True,True,True,Good curl mechanics in this frame.,136.71846972183437,0,False,False,True,True,True,Increase curl depth for better range of motion.
+55,1.8333333333333333,right,157.82678954020878,0,True,True,True,True,True,Good curl mechanics in this frame.,138.899080352636,0,False,False,True,True,True,Increase curl depth for better range of motion.
+56,1.8666666666666667,right,162.0115544337333,0,True,True,True,True,True,Good curl mechanics in this frame.,140.66091765904116,0,False,False,True,True,True,Increase curl depth for better range of motion.
+57,1.9,right,165.157136068441,0,True,True,True,True,True,Good curl mechanics in this frame.,142.371083951591,0,False,False,True,True,True,Increase curl depth for better range of motion.
+58,1.9333333333333333,right,167.89932595820846,0,True,True,True,True,True,Good curl mechanics in this frame.,144.1044035181642,0,False,False,True,True,True,Increase curl depth for better range of motion.
+59,1.9666666666666666,right,169.94608502270668,0,True,True,True,True,True,Good curl mechanics in this frame.,145.72369817355786,0,False,False,True,True,True,Increase curl depth for better range of motion.
+60,2.0,right,171.3234064409146,0,True,True,True,True,True,Good curl mechanics in this frame.,147.07096423923608,0,False,False,True,True,True,Increase curl depth for better range of motion.
+61,2.033333333333333,right,172.4545439703038,0,True,True,True,True,True,Good curl mechanics in this frame.,148.66307697726938,0,False,False,True,True,True,Increase curl depth for better range of motion.
+62,2.066666666666667,right,173.5290714110939,0,True,True,True,True,True,Good curl mechanics in this frame.,150.11376906107196,0,True,True,True,True,True,Good curl mechanics in this frame.
+63,2.1,right,173.99085828690795,0,True,True,True,True,True,Good curl mechanics in this frame.,151.5247978165397,0,True,True,True,True,True,Good curl mechanics in this frame.
+64,2.1333333333333333,right,174.25538138421808,0,True,True,True,True,True,Good curl mechanics in this frame.,152.83786806493518,0,True,True,True,True,True,Good curl mechanics in this frame.
+65,2.1666666666666665,right,174.4625884118993,0,True,True,True,True,True,Good curl mechanics in this frame.,154.18660934366045,0,True,True,True,True,True,Good curl mechanics in this frame.
+66,2.2,right,174.75464543887404,0,True,True,True,True,True,Good curl mechanics in this frame.,155.2931359046564,0,True,True,True,True,True,Good curl mechanics in this frame.
+67,2.2333333333333334,right,174.79134641352312,0,True,True,True,True,True,Good curl mechanics in this frame.,156.28229896140724,0,True,True,True,True,True,Good curl mechanics in this frame.
+68,2.2666666666666666,right,174.7585985809239,0,True,True,True,True,True,Good curl mechanics in this frame.,157.17320329962524,0,True,True,True,True,True,Good curl mechanics in this frame.
+69,2.3,right,174.97531125266684,0,True,True,True,True,True,Good curl mechanics in this frame.,158.0771684950747,0,True,True,True,True,True,Good curl mechanics in this frame.
+70,2.3333333333333335,right,175.04078545618142,0,True,True,True,True,True,Good curl mechanics in this frame.,158.80633966884895,0,True,True,True,True,True,Good curl mechanics in this frame.
+71,2.3666666666666667,right,174.92013221872142,0,True,True,True,True,True,Good curl mechanics in this frame.,159.48706378912686,0,True,True,True,True,True,Good curl mechanics in this frame.
+72,2.4,right,174.8381558129737,0,True,True,True,True,True,Good curl mechanics in this frame.,160.0359864860444,0,True,True,True,True,True,Good curl mechanics in this frame.
+73,2.433333333333333,right,174.71401238567577,0,True,True,True,True,True,Good curl mechanics in this frame.,160.31559259692227,0,True,True,True,True,True,Good curl mechanics in this frame.
+74,2.466666666666667,right,174.61718414292193,0,True,True,True,True,True,Good curl mechanics in this frame.,160.47403628834994,0,True,True,True,True,True,Good curl mechanics in this frame.
+75,2.5,right,174.48673893957277,0,True,True,True,True,True,Good curl mechanics in this frame.,160.55493978011793,0,True,True,True,True,True,Good curl mechanics in this frame.
+76,2.533333333333333,right,174.5098766939797,0,True,True,True,True,True,Good curl mechanics in this frame.,160.47138882296474,0,True,True,True,True,True,Good curl mechanics in this frame.
+77,2.566666666666667,right,174.48879901829207,0,True,True,True,True,True,Good curl mechanics in this frame.,160.22366990430675,0,True,True,True,True,True,Good curl mechanics in this frame.
+78,2.6,right,174.3763243593839,0,True,True,True,True,True,Good curl mechanics in this frame.,159.78780115363867,0,True,True,True,True,True,Good curl mechanics in this frame.
+79,2.6333333333333333,right,174.13682069337116,0,True,True,True,True,True,Good curl mechanics in this frame.,159.38475870759186,0,True,True,True,True,True,Good curl mechanics in this frame.
+80,2.6666666666666665,right,173.9147831073843,0,True,True,True,True,True,Good curl mechanics in this frame.,158.90860286631727,0,True,True,True,True,True,Good curl mechanics in this frame.
+81,2.7,right,173.6327058217313,0,True,True,True,True,True,Good curl mechanics in this frame.,158.38740940857815,0,True,True,True,True,True,Good curl mechanics in this frame.
+82,2.7333333333333334,right,173.22074483138397,0,True,True,True,True,True,Good curl mechanics in this frame.,157.86809274337105,0,True,True,True,True,True,Good curl mechanics in this frame.
+83,2.7666666666666666,right,172.75648369366314,0,True,True,True,True,True,Good curl mechanics in this frame.,157.39607950813786,0,True,True,True,True,True,Good curl mechanics in this frame.
+84,2.8,right,172.194773818316,0,True,True,True,True,True,Good curl mechanics in this frame.,156.92855324162096,0,True,True,True,True,True,Good curl mechanics in this frame.
+85,2.8333333333333335,right,171.9078799131886,0,True,True,True,True,True,Good curl mechanics in this frame.,156.54837559802263,0,True,True,True,True,True,Good curl mechanics in this frame.
+86,2.8666666666666667,right,171.4507530244828,0,True,True,True,True,True,Good curl mechanics in this frame.,156.028694100681,0,True,True,True,True,True,Good curl mechanics in this frame.
+87,2.9,right,170.64704354245063,0,True,True,True,True,True,Good curl mechanics in this frame.,155.44486189685793,0,True,True,True,True,True,Good curl mechanics in this frame.
+88,2.933333333333333,right,169.96146022813718,0,True,True,True,True,True,Good curl mechanics in this frame.,154.61477475807658,0,True,True,True,True,True,Good curl mechanics in this frame.
+89,2.966666666666667,right,169.28415625347435,0,True,True,True,True,True,Good curl mechanics in this frame.,153.54713600280053,0,True,True,True,True,True,Good curl mechanics in this frame.
+90,3.0,right,168.4680892948165,0,True,True,True,True,True,Good curl mechanics in this frame.,152.32522196808756,0,True,True,True,True,True,Good curl mechanics in this frame.
+91,3.033333333333333,right,167.80518058156127,0,True,True,True,True,True,Good curl mechanics in this frame.,151.0390539801143,0,True,True,True,True,True,Good curl mechanics in this frame.
+92,3.066666666666667,right,167.08000751487117,0,True,True,True,True,True,Good curl mechanics in this frame.,149.6245874766879,0,False,False,True,True,True,Increase curl depth for better range of motion.
+93,3.1,right,166.2005084796653,0,True,True,True,True,True,Good curl mechanics in this frame.,147.60713304219763,0,False,False,True,True,True,Increase curl depth for better range of motion.
+94,3.1333333333333333,right,164.2565181023407,0,True,True,True,True,True,Good curl mechanics in this frame.,145.3359557792495,0,False,False,True,True,True,Increase curl depth for better range of motion.
+95,3.1666666666666665,right,162.09601908290858,0,True,True,True,True,True,Good curl mechanics in this frame.,142.9900343647461,0,False,False,True,True,True,Increase curl depth for better range of motion.
+96,3.2,right,159.61620398812323,0,True,True,True,True,True,Good curl mechanics in this frame.,140.48667267831306,0,False,False,True,True,True,Increase curl depth for better range of motion.
+97,3.2333333333333334,right,156.53151918042482,0,True,True,True,True,True,Good curl mechanics in this frame.,137.62505729307193,0,False,False,True,True,True,Increase curl depth for better range of motion.
+98,3.2666666666666666,right,151.8166714285852,0,True,True,True,True,True,Good curl mechanics in this frame.,134.60621120442542,0,False,False,True,True,True,Increase curl depth for better range of motion.
+99,3.3,right,144.21051834588673,0,False,False,True,True,True,Increase curl depth for better range of motion.,130.59463619892915,0,False,False,True,True,True,Increase curl depth for better range of motion.
+100,3.3333333333333335,right,135.93652602493333,0,False,False,True,True,True,Increase curl depth for better range of motion.,125.95719413889054,0,False,False,True,True,True,Increase curl depth for better range of motion.
+101,3.3666666666666667,right,126.77556901805399,0,False,False,True,True,True,Increase curl depth for better range of motion.,121.28416098398543,0,False,False,True,True,True,Increase curl depth for better range of motion.
+102,3.4,left,115.43974911887527,0,False,False,True,True,True,Increase curl depth for better range of motion.,117.5993198767724,0,False,False,True,True,True,Increase curl depth for better range of motion.
+103,3.433333333333333,left,101.96088572293438,0,False,False,True,True,True,Increase curl depth for better range of motion.,112.63724452409355,0,False,False,True,True,True,Increase curl depth for better range of motion.
+104,3.466666666666667,left,87.99183514306812,0,False,False,True,True,True,Increase curl depth for better range of motion.,106.67480088875169,0,False,False,True,True,True,Increase curl depth for better range of motion.
+105,3.5,left,74.14680521358706,0,False,False,True,True,True,Increase curl depth for better range of motion.,100.84982374987968,0,False,False,True,True,True,Increase curl depth for better range of motion.
+106,3.533333333333333,left,60.4267955104959,0,True,True,True,True,True,Good curl mechanics in this frame.,94.78452143595229,0,False,False,True,True,True,Increase curl depth for better range of motion.
+107,3.566666666666667,left,48.07675818930998,0,True,True,True,True,True,Good curl mechanics in this frame.,88.38254462742115,0,False,False,True,True,True,Increase curl depth for better range of motion.
+108,3.6,left,38.4391504745324,0,True,True,True,True,True,Good curl mechanics in this frame.,82.90495960930454,0,False,False,True,True,True,Increase curl depth for better range of motion.
+109,3.6333333333333333,left,29.218587888499467,0,True,True,True,True,True,Good curl mechanics in this frame.,77.85346842133805,0,False,False,True,True,True,Increase curl depth for better range of motion.
+110,3.6666666666666665,left,20.71878619591051,0,True,True,True,True,True,Good curl mechanics in this frame.,72.5665921666104,0,False,False,True,True,True,Increase curl depth for better range of motion.
+111,3.7,left,14.320307595639612,0,True,True,True,True,True,Good curl mechanics in this frame.,66.58953846940125,0,True,True,True,True,True,Good curl mechanics in this frame.
+112,3.7333333333333334,left,10.950697787026527,0,True,True,True,True,True,Good curl mechanics in this frame.,61.771647500636014,0,True,True,True,True,True,Good curl mechanics in this frame.
+113,3.7666666666666666,left,8.461893987056095,0,True,True,True,True,True,Good curl mechanics in this frame.,57.87299791320393,0,True,True,True,True,True,Good curl mechanics in this frame.
+114,3.8,left,6.426758239535573,0,True,True,True,True,True,Good curl mechanics in this frame.,53.971799180053125,0,True,True,True,True,True,Good curl mechanics in this frame.
+115,3.8333333333333335,left,4.792586117529442,0,True,True,True,True,True,Good curl mechanics in this frame.,50.53148141866656,0,True,True,True,True,True,Good curl mechanics in this frame.
+116,3.8666666666666667,left,3.696929562836579,0,True,True,True,True,True,Good curl mechanics in this frame.,47.55573394393829,0,True,True,True,True,True,Good curl mechanics in this frame.
+117,3.9,left,3.004992476706267,0,True,True,True,True,True,Good curl mechanics in this frame.,44.783096527498074,0,True,True,True,True,True,Good curl mechanics in this frame.
+118,3.933333333333333,left,2.6283289681521262,0,True,True,True,True,True,Good curl mechanics in this frame.,42.22208801110336,0,True,True,True,True,True,Good curl mechanics in this frame.
+119,3.966666666666667,left,3.022568131739609,0,True,True,True,True,True,Good curl mechanics in this frame.,39.87452283468594,0,True,True,True,True,True,Good curl mechanics in this frame.
+120,4.0,left,3.90488704960009,0,True,True,True,True,True,Good curl mechanics in this frame.,37.77491145859963,0,True,True,True,True,True,Good curl mechanics in this frame.
+121,4.033333333333333,left,4.608600496214368,0,True,True,True,True,True,Good curl mechanics in this frame.,35.89575239524581,0,True,True,True,True,True,Good curl mechanics in this frame.
+122,4.066666666666666,left,5.302504348740431,0,True,True,True,True,True,Good curl mechanics in this frame.,34.31933295860857,0,True,True,True,True,True,Good curl mechanics in this frame.
+123,4.1,left,6.244586526858744,0,True,True,True,True,True,Good curl mechanics in this frame.,32.93297508799578,0,True,True,True,True,True,Good curl mechanics in this frame.
+124,4.133333333333334,left,7.56523909622889,0,True,True,True,True,True,Good curl mechanics in this frame.,31.863241448196415,0,True,True,True,True,True,Good curl mechanics in this frame.
+125,4.166666666666667,left,8.679665159313167,0,True,True,True,True,True,Good curl mechanics in this frame.,30.989621121787586,0,True,True,True,True,True,Good curl mechanics in this frame.
+126,4.2,left,9.650579603354565,0,True,True,True,True,True,Good curl mechanics in this frame.,30.192191579756688,0,True,True,True,True,True,Good curl mechanics in this frame.
+127,4.233333333333333,left,10.468964608988195,0,True,True,True,True,True,Good curl mechanics in this frame.,29.540881089225543,0,True,True,True,True,True,Good curl mechanics in this frame.
+128,4.266666666666667,left,10.904830338060279,0,True,True,True,True,True,Good curl mechanics in this frame.,29.207622323070918,0,True,True,True,True,True,Good curl mechanics in this frame.
+129,4.3,left,11.188836646640333,0,True,True,True,True,True,Good curl mechanics in this frame.,29.085104624869505,0,True,True,True,True,True,Good curl mechanics in this frame.
+130,4.333333333333333,left,11.453645450298739,0,True,True,True,True,True,Good curl mechanics in this frame.,29.18952178728057,0,True,True,True,True,True,Good curl mechanics in this frame.
+131,4.366666666666666,left,11.788095136975176,0,True,True,True,True,True,Good curl mechanics in this frame.,29.593682099527353,0,True,True,True,True,True,Good curl mechanics in this frame.
+132,4.4,left,11.847901157584905,0,True,True,True,True,True,Good curl mechanics in this frame.,30.155672605842653,0,True,True,True,True,True,Good curl mechanics in this frame.
+133,4.433333333333334,left,11.666770674194813,0,True,True,True,True,True,Good curl mechanics in this frame.,30.98572677517721,0,True,True,True,True,True,Good curl mechanics in this frame.
+134,4.466666666666667,left,11.380739136760935,0,True,True,True,True,True,Good curl mechanics in this frame.,32.14323140004812,0,True,True,True,True,True,Good curl mechanics in this frame.
+135,4.5,left,11.069813255638744,0,True,True,True,True,True,Good curl mechanics in this frame.,33.51311970873009,0,True,True,True,True,True,Good curl mechanics in this frame.
+136,4.533333333333333,left,10.463051556258558,0,True,True,True,True,True,Good curl mechanics in this frame.,35.09137215493406,0,True,True,True,True,True,Good curl mechanics in this frame.
+137,4.566666666666666,left,9.65535696759238,0,True,True,True,True,True,Good curl mechanics in this frame.,36.719242598462266,0,True,True,True,True,True,Good curl mechanics in this frame.
+138,4.6,left,8.75386164527196,0,True,True,True,True,True,Good curl mechanics in this frame.,38.460135932271115,0,True,True,True,True,True,Good curl mechanics in this frame.
+139,4.633333333333334,left,8.153308024548734,0,True,True,True,True,True,Good curl mechanics in this frame.,40.401604045427035,0,True,True,True,True,True,Good curl mechanics in this frame.
+140,4.666666666666667,left,7.576031599375455,0,True,True,True,True,True,Good curl mechanics in this frame.,42.262632366214774,0,True,True,True,True,True,Good curl mechanics in this frame.
+141,4.7,left,6.770425343735867,0,True,True,True,True,True,Good curl mechanics in this frame.,44.29819491281601,0,True,True,True,True,True,Good curl mechanics in this frame.
+142,4.733333333333333,left,5.842712495670069,0,True,True,True,True,True,Good curl mechanics in this frame.,46.294301307799486,0,True,True,True,True,True,Good curl mechanics in this frame.
+143,4.766666666666667,left,4.97920823441579,0,True,True,True,True,True,Good curl mechanics in this frame.,48.29926035177575,0,True,True,True,True,True,Good curl mechanics in this frame.
+144,4.8,left,4.005433003022133,0,True,True,True,True,True,Good curl mechanics in this frame.,50.4476465586526,0,True,True,True,True,True,Good curl mechanics in this frame.
+145,4.833333333333333,left,3.4056586965087043,0,True,True,True,True,True,Good curl mechanics in this frame.,52.71906250154976,0,True,True,True,True,True,Good curl mechanics in this frame.
+146,4.866666666666666,left,2.94404856135594,0,True,True,True,True,True,Good curl mechanics in this frame.,55.142084792330515,0,True,True,True,True,True,Good curl mechanics in this frame.
+147,4.9,left,2.6061759785050946,0,True,True,True,True,True,Good curl mechanics in this frame.,57.533459377056374,0,True,True,True,True,True,Good curl mechanics in this frame.
+148,4.933333333333334,left,2.095895520232055,0,True,True,True,True,True,Good curl mechanics in this frame.,60.10762621667478,0,True,True,True,True,True,Good curl mechanics in this frame.
+149,4.966666666666667,left,1.5724701771684073,0,True,True,True,True,True,Good curl mechanics in this frame.,62.72590870429368,0,True,True,True,True,True,Good curl mechanics in this frame.
+150,5.0,left,1.8348077651136572,0,True,True,True,True,True,Good curl mechanics in this frame.,65.48510508391895,0,True,True,True,True,True,Good curl mechanics in this frame.
+151,5.033333333333333,left,2.804169433552815,0,True,True,True,True,True,Good curl mechanics in this frame.,68.31055643675421,0,True,True,True,True,True,Good curl mechanics in this frame.
+152,5.066666666666666,left,3.6076821181391887,0,True,True,True,True,True,Good curl mechanics in this frame.,71.36690877903497,0,False,False,True,True,True,Increase curl depth for better range of motion.
+153,5.1,left,6.419836365734905,0,True,True,True,True,True,Good curl mechanics in this frame.,74.76172282277402,0,False,False,True,True,True,Increase curl depth for better range of motion.
+154,5.133333333333334,left,8.526167262280259,0,True,True,True,True,True,Good curl mechanics in this frame.,78.13424444878197,0,False,False,True,True,True,Increase curl depth for better range of motion.
+155,5.166666666666667,left,11.208857712980652,0,True,True,True,True,True,Good curl mechanics in this frame.,81.44862520672135,0,False,False,True,True,True,Increase curl depth for better range of motion.
+156,5.2,left,15.397258272432644,0,True,True,True,True,True,Good curl mechanics in this frame.,84.95688687373912,0,False,False,True,True,True,Increase curl depth for better range of motion.
+157,5.233333333333333,left,23.22177780694443,0,True,True,True,True,True,Good curl mechanics in this frame.,88.45318017763219,0,False,False,True,True,True,Increase curl depth for better range of motion.
+158,5.266666666666667,left,26.310750602394194,0,True,True,True,True,True,Good curl mechanics in this frame.,92.14550570917335,0,False,False,True,True,True,Increase curl depth for better range of motion.
+159,5.3,left,28.715923633095397,0,True,True,True,True,True,Good curl mechanics in this frame.,95.60803098483908,0,False,False,True,True,True,Increase curl depth for better range of motion.
+160,5.333333333333333,left,30.67099448607125,0,True,True,True,True,True,Good curl mechanics in this frame.,99.17913289444095,0,False,False,True,True,True,Increase curl depth for better range of motion.
+161,5.366666666666666,left,41.28744169471388,0,True,True,True,True,True,Good curl mechanics in this frame.,103.08116797494365,0,False,False,True,True,True,Increase curl depth for better range of motion.
+162,5.4,left,52.090264868328326,0,True,True,True,True,True,Good curl mechanics in this frame.,106.94943030163913,0,False,False,True,True,True,Increase curl depth for better range of motion.
+163,5.433333333333334,left,65.53724967943413,0,True,True,True,True,True,Good curl mechanics in this frame.,111.07450238948803,0,False,False,True,True,True,Increase curl depth for better range of motion.
+164,5.466666666666667,left,78.94466302343712,0,False,False,True,True,True,Increase curl depth for better range of motion.,115.13471204893919,0,False,False,True,True,True,Increase curl depth for better range of motion.
+165,5.5,left,91.36541224054176,0,False,False,True,True,True,Increase curl depth for better range of motion.,118.91400573809159,0,False,False,True,True,True,Increase curl depth for better range of motion.
+166,5.533333333333333,left,100.94538040178541,0,False,False,True,True,True,Increase curl depth for better range of motion.,122.43759415737425,0,False,False,True,True,True,Increase curl depth for better range of motion.
+167,5.566666666666666,left,115.71356111331653,0,False,False,True,True,True,Increase curl depth for better range of motion.,125.8379338535351,0,False,False,True,True,True,Increase curl depth for better range of motion.
+168,5.6,right,131.0879916544974,0,False,False,True,True,True,Increase curl depth for better range of motion.,129.21403650187247,0,False,False,True,True,True,Increase curl depth for better range of motion.
+169,5.633333333333334,right,146.50579041825404,0,False,False,True,True,True,Increase curl depth for better range of motion.,132.3852961113456,0,False,False,True,True,True,Increase curl depth for better range of motion.
+170,5.666666666666667,right,153.5248881637091,0,True,True,True,True,True,Good curl mechanics in this frame.,134.85788629974365,0,False,False,True,True,True,Increase curl depth for better range of motion.
+171,5.7,right,159.04118711346305,0,True,True,True,True,True,Good curl mechanics in this frame.,136.79006587720517,0,False,False,True,True,True,Increase curl depth for better range of motion.
+172,5.733333333333333,right,162.8411545382359,0,True,True,True,True,True,Good curl mechanics in this frame.,138.2743816027746,0,False,False,True,True,True,Increase curl depth for better range of motion.
+173,5.766666666666667,right,166.14313845024913,0,True,True,True,True,True,Good curl mechanics in this frame.,139.6334006460796,0,False,False,True,True,True,Increase curl depth for better range of motion.
+174,5.8,right,168.873842789048,0,True,True,True,True,True,Good curl mechanics in this frame.,141.09662255767762,0,False,False,True,True,True,Increase curl depth for better range of motion.
+175,5.833333333333333,right,170.69962542351897,0,True,True,True,True,True,Good curl mechanics in this frame.,142.4389871288198,0,False,False,True,True,True,Increase curl depth for better range of motion.
+176,5.866666666666666,right,171.94966993571768,0,True,True,True,True,True,Good curl mechanics in this frame.,143.77184532320322,0,False,False,True,True,True,Increase curl depth for better range of motion.
+177,5.9,right,172.9839820599259,0,True,True,True,True,True,Good curl mechanics in this frame.,145.11794896635917,0,False,False,True,True,True,Increase curl depth for better range of motion.
+178,5.933333333333334,right,173.8599763133998,0,True,True,True,True,True,Good curl mechanics in this frame.,146.5237809420959,0,False,False,True,True,True,Increase curl depth for better range of motion.
+179,5.966666666666667,right,174.60715449557426,0,True,True,True,True,True,Good curl mechanics in this frame.,148.00955282804128,0,False,False,True,True,True,Increase curl depth for better range of motion.
+180,6.0,right,174.8962304737734,0,True,True,True,True,True,Good curl mechanics in this frame.,149.50651783365086,0,False,False,True,True,True,Increase curl depth for better range of motion.
+181,6.033333333333333,right,174.895851088639,0,True,True,True,True,True,Good curl mechanics in this frame.,150.96506958075614,0,True,True,True,True,True,Good curl mechanics in this frame.
+182,6.066666666666666,right,174.90457817172737,0,True,True,True,True,True,Good curl mechanics in this frame.,152.46560845589931,0,True,True,True,True,True,Good curl mechanics in this frame.
+183,6.1,right,175.06429798073808,0,True,True,True,True,True,Good curl mechanics in this frame.,153.81780686164316,0,True,True,True,True,True,Good curl mechanics in this frame.
+184,6.133333333333334,right,175.3174016207159,0,True,True,True,True,True,Good curl mechanics in this frame.,155.14524632338137,0,True,True,True,True,True,Good curl mechanics in this frame.
+185,6.166666666666667,right,175.62927319088516,0,True,True,True,True,True,Good curl mechanics in this frame.,156.21502962811098,0,True,True,True,True,True,Good curl mechanics in this frame.
+186,6.2,right,175.9167874344132,0,True,True,True,True,True,Good curl mechanics in this frame.,157.1012508962846,0,True,True,True,True,True,Good curl mechanics in this frame.
+187,6.233333333333333,right,176.2843320137315,0,True,True,True,True,True,Good curl mechanics in this frame.,157.83099561345887,0,True,True,True,True,True,Good curl mechanics in this frame.
+188,6.266666666666667,right,176.74707609617727,0,True,True,True,True,True,Good curl mechanics in this frame.,158.48767403814696,0,True,True,True,True,True,Good curl mechanics in this frame.
+189,6.3,right,177.18331428528492,0,True,True,True,True,True,Good curl mechanics in this frame.,159.04885513820614,0,True,True,True,True,True,Good curl mechanics in this frame.
+190,6.333333333333333,right,177.6833901153655,0,True,True,True,True,True,Good curl mechanics in this frame.,159.5492021820624,0,True,True,True,True,True,Good curl mechanics in this frame.
+191,6.366666666666666,right,178.12869625338323,0,True,True,True,True,True,Good curl mechanics in this frame.,160.0222414741278,0,True,True,True,True,True,Good curl mechanics in this frame.
+192,6.4,right,178.4945208893961,0,True,True,True,True,True,Good curl mechanics in this frame.,160.37299218076302,0,True,True,True,True,True,Good curl mechanics in this frame.
+193,6.433333333333334,right,178.75970444417058,0,True,True,True,True,True,Good curl mechanics in this frame.,160.62747925801537,0,True,True,True,True,True,Good curl mechanics in this frame.
+194,6.466666666666667,right,179.0790795793783,0,True,True,True,True,True,Good curl mechanics in this frame.,160.96277132119434,0,True,True,True,True,True,Good curl mechanics in this frame.
+195,6.5,right,179.03238001980958,0,True,True,True,True,True,Good curl mechanics in this frame.,161.27289889129545,0,True,True,True,True,True,Good curl mechanics in this frame.
+196,6.533333333333333,right,178.89412270662757,0,True,True,True,True,True,Good curl mechanics in this frame.,161.5724896698871,0,True,True,True,True,True,Good curl mechanics in this frame.
+197,6.566666666666666,right,178.6873570936955,0,True,True,True,True,True,Good curl mechanics in this frame.,161.75568045776467,0,True,True,True,True,True,Good curl mechanics in this frame.
+198,6.6,right,178.48287960236783,0,True,True,True,True,True,Good curl mechanics in this frame.,161.8197572749597,0,True,True,True,True,True,Good curl mechanics in this frame.
+199,6.633333333333334,right,178.22014263595335,0,True,True,True,True,True,Good curl mechanics in this frame.,161.83849872995881,0,True,True,True,True,True,Good curl mechanics in this frame.
+200,6.666666666666667,right,178.17305047875823,0,True,True,True,True,True,Good curl mechanics in this frame.,161.7635732531702,0,True,True,True,True,True,Good curl mechanics in this frame.
+201,6.7,right,177.9994442703736,0,True,True,True,True,True,Good curl mechanics in this frame.,161.6908139294556,0,True,True,True,True,True,Good curl mechanics in this frame.
+202,6.733333333333333,right,177.5097296929477,0,True,True,True,True,True,Good curl mechanics in this frame.,161.52795138202623,0,True,True,True,True,True,Good curl mechanics in this frame.
+203,6.766666666666667,right,176.94492157884417,0,True,True,True,True,True,Good curl mechanics in this frame.,161.2254948924413,0,True,True,True,True,True,Good curl mechanics in this frame.
+204,6.8,right,176.8927230348126,0,True,True,True,True,True,Good curl mechanics in this frame.,160.96391606853234,0,True,True,True,True,True,Good curl mechanics in this frame.
+205,6.833333333333333,right,176.56450020895133,0,True,True,True,True,True,Good curl mechanics in this frame.,160.645846558531,0,True,True,True,True,True,Good curl mechanics in this frame.
+206,6.866666666666666,right,176.36953875521453,0,True,True,True,True,True,Good curl mechanics in this frame.,160.30484724761968,0,True,True,True,True,True,Good curl mechanics in this frame.
+207,6.9,right,176.17311803380892,0,True,True,True,True,True,Good curl mechanics in this frame.,159.87325717692116,0,True,True,True,True,True,Good curl mechanics in this frame.
+208,6.933333333333334,right,176.02943997518116,0,True,True,True,True,True,Good curl mechanics in this frame.,159.30498718570328,0,True,True,True,True,True,Good curl mechanics in this frame.
+209,6.966666666666667,right,175.43036450412274,0,True,True,True,True,True,Good curl mechanics in this frame.,158.53333973505545,0,True,True,True,True,True,Good curl mechanics in this frame.
+210,7.0,right,174.89930795492617,0,True,True,True,True,True,Good curl mechanics in this frame.,157.7215829085923,0,True,True,True,True,True,Good curl mechanics in this frame.
+211,7.033333333333333,right,174.52437405856168,0,True,True,True,True,True,Good curl mechanics in this frame.,156.86702983798378,0,True,True,True,True,True,Good curl mechanics in this frame.
+212,7.066666666666666,right,174.21855117500962,0,True,True,True,True,True,Good curl mechanics in this frame.,155.88933072942115,0,True,True,True,True,True,Good curl mechanics in this frame.
+213,7.1,right,173.4902344855182,0,True,True,True,True,True,Good curl mechanics in this frame.,154.6033283981485,0,True,True,True,True,True,Good curl mechanics in this frame.
+214,7.133333333333334,right,172.8052759075709,0,True,True,True,True,True,Good curl mechanics in this frame.,153.0698603088767,0,True,True,True,True,True,Good curl mechanics in this frame.
+215,7.166666666666667,right,171.6580295831623,0,True,True,True,True,True,Good curl mechanics in this frame.,151.38340087823906,0,True,True,True,True,True,Good curl mechanics in this frame.
+216,7.2,right,169.5240924605509,0,True,True,True,True,True,Good curl mechanics in this frame.,149.59810541473018,0,False,False,True,True,True,Increase curl depth for better range of motion.
+217,7.233333333333333,right,166.97204295467787,0,True,True,True,True,True,Good curl mechanics in this frame.,147.39132772560257,0,False,False,True,True,True,Increase curl depth for better range of motion.
+218,7.266666666666667,right,163.21036361959284,0,True,True,True,True,True,Good curl mechanics in this frame.,145.03734795028208,0,False,False,True,True,True,Increase curl depth for better range of motion.
+219,7.3,right,158.54861362301506,0,True,True,True,True,True,Good curl mechanics in this frame.,142.44062566597665,0,False,False,True,True,True,Increase curl depth for better range of motion.
+220,7.333333333333333,right,153.85860184792708,0,True,True,True,True,True,Good curl mechanics in this frame.,139.47555629017006,0,False,False,True,True,True,Increase curl depth for better range of motion.
+221,7.366666666666666,right,147.25803547104397,0,False,False,True,True,True,Increase curl depth for better range of motion.,135.46600342211076,0,False,False,True,True,True,Increase curl depth for better range of motion.
+222,7.4,right,136.08054273146854,0,False,False,True,True,True,Increase curl depth for better range of motion.,130.3957688860181,0,False,False,True,True,True,Increase curl depth for better range of motion.
+223,7.433333333333334,right,125.18075595626912,0,False,False,True,True,True,Increase curl depth for better range of motion.,124.53531086292372,0,False,False,True,True,True,Increase curl depth for better range of motion.
+224,7.466666666666667,left,111.76401627274288,0,False,False,True,True,True,Increase curl depth for better range of motion.,118.40020259200635,0,False,False,True,True,True,Increase curl depth for better range of motion.
+225,7.5,left,99.18749162058707,0,False,False,True,True,True,Increase curl depth for better range of motion.,112.95851477860641,0,False,False,True,True,True,Increase curl depth for better range of motion.
+226,7.533333333333333,left,85.70168928157906,0,False,False,True,True,True,Increase curl depth for better range of motion.,106.9336888239506,0,False,False,True,True,True,Increase curl depth for better range of motion.
+227,7.566666666666666,left,72.75749063448039,0,False,False,True,True,True,Increase curl depth for better range of motion.,100.94837933193503,0,False,False,True,True,True,Increase curl depth for better range of motion.
+228,7.6,left,59.80622154873361,0,True,True,True,True,True,Good curl mechanics in this frame.,94.38762392840734,0,False,False,True,True,True,Increase curl depth for better range of motion.
+229,7.633333333333334,left,46.98466490093574,0,True,True,True,True,True,Good curl mechanics in this frame.,87.66345240047433,0,False,False,True,True,True,Increase curl depth for better range of motion.
+230,7.666666666666667,left,35.60428319291162,0,True,True,True,True,True,Good curl mechanics in this frame.,82.18580529322253,0,False,False,True,True,True,Increase curl depth for better range of motion.
+231,7.7,left,28.56149282939886,0,True,True,True,True,True,Good curl mechanics in this frame.,77.35308284382603,0,False,False,True,True,True,Increase curl depth for better range of motion.
+232,7.733333333333333,left,21.6533622932345,0,True,True,True,True,True,Good curl mechanics in this frame.,73.1830106067609,0,False,False,True,True,True,Increase curl depth for better range of motion.
+233,7.766666666666667,left,17.562267058810548,0,True,True,True,True,True,Good curl mechanics in this frame.,68.93729859396494,0,True,True,True,True,True,Good curl mechanics in this frame.
+234,7.8,left,13.604824520192969,0,True,True,True,True,True,Good curl mechanics in this frame.,64.01276235655189,0,True,True,True,True,True,Good curl mechanics in this frame.
+235,7.833333333333333,left,10.959152007807596,0,True,True,True,True,True,Good curl mechanics in this frame.,60.046459600345344,0,True,True,True,True,True,Good curl mechanics in this frame.
+236,7.866666666666666,left,9.099974431370498,0,True,True,True,True,True,Good curl mechanics in this frame.,56.23068793459385,0,True,True,True,True,True,Good curl mechanics in this frame.
+237,7.9,left,8.263382016233798,0,True,True,True,True,True,Good curl mechanics in this frame.,53.15496579798528,0,True,True,True,True,True,Good curl mechanics in this frame.
+238,7.933333333333334,left,7.4898522498034525,0,True,True,True,True,True,Good curl mechanics in this frame.,50.534831388577295,0,True,True,True,True,True,Good curl mechanics in this frame.
+239,7.966666666666667,left,7.050792133385576,0,True,True,True,True,True,Good curl mechanics in this frame.,47.765356422866674,0,True,True,True,True,True,Good curl mechanics in this frame.
+240,8.0,left,6.857885619262742,0,True,True,True,True,True,Good curl mechanics in this frame.,45.33257781331487,0,True,True,True,True,True,Good curl mechanics in this frame.
+241,8.033333333333333,left,6.218168386086268,0,True,True,True,True,True,Good curl mechanics in this frame.,43.069695646243034,0,True,True,True,True,True,Good curl mechanics in this frame.
+242,8.066666666666666,left,5.57654004727044,0,True,True,True,True,True,Good curl mechanics in this frame.,40.85955972503342,0,True,True,True,True,True,Good curl mechanics in this frame.
+243,8.1,left,4.8990609306857875,0,True,True,True,True,True,Good curl mechanics in this frame.,38.6323384259375,0,True,True,True,True,True,Good curl mechanics in this frame.
+244,8.133333333333333,left,4.349424085061695,0,True,True,True,True,True,Good curl mechanics in this frame.,36.68339512977707,0,True,True,True,True,True,Good curl mechanics in this frame.
+245,8.166666666666666,left,3.9003861119996452,0,True,True,True,True,True,Good curl mechanics in this frame.,34.835464239044285,0,True,True,True,True,True,Good curl mechanics in this frame.
+246,8.2,left,3.480017500390625,0,True,True,True,True,True,Good curl mechanics in this frame.,32.94884559877522,0,True,True,True,True,True,Good curl mechanics in this frame.
+247,8.233333333333333,left,3.1983170175340163,0,True,True,True,True,True,Good curl mechanics in this frame.,31.279078899019996,0,True,True,True,True,True,Good curl mechanics in this frame.
+248,8.266666666666667,left,3.1066114863817513,0,True,True,True,True,True,Good curl mechanics in this frame.,29.73204657373664,0,True,True,True,True,True,Good curl mechanics in this frame.
+249,8.3,left,3.142726285498076,0,True,True,True,True,True,Good curl mechanics in this frame.,28.500640862377573,0,True,True,True,True,True,Good curl mechanics in this frame.
+250,8.333333333333334,left,3.4140140438072137,0,True,True,True,True,True,Good curl mechanics in this frame.,27.51740312627824,0,True,True,True,True,True,Good curl mechanics in this frame.
+251,8.366666666666667,left,3.7642694884055934,0,True,True,True,True,True,Good curl mechanics in this frame.,27.015685557365586,0,True,True,True,True,True,Good curl mechanics in this frame.
+252,8.4,left,4.215977662408781,0,True,True,True,True,True,Good curl mechanics in this frame.,26.839217872277768,0,True,True,True,True,True,Good curl mechanics in this frame.
+253,8.433333333333334,left,4.514077081974726,0,True,True,True,True,True,Good curl mechanics in this frame.,26.622120256671128,0,True,True,True,True,True,Good curl mechanics in this frame.
+254,8.466666666666667,left,4.793154461643245,0,True,True,True,True,True,Good curl mechanics in this frame.,26.46700501166838,0,True,True,True,True,True,Good curl mechanics in this frame.
+255,8.5,left,5.007755799734124,0,True,True,True,True,True,Good curl mechanics in this frame.,26.603497824744053,0,True,True,True,True,True,Good curl mechanics in this frame.
+256,8.533333333333333,left,5.057074032752161,0,True,True,True,True,True,Good curl mechanics in this frame.,26.81252862038989,0,True,True,True,True,True,Good curl mechanics in this frame.
+257,8.566666666666666,left,4.932793117103727,0,True,True,True,True,True,Good curl mechanics in this frame.,27.162799842716865,0,True,True,True,True,True,Good curl mechanics in this frame.
+258,8.6,left,4.8264322658049394,0,True,True,True,True,True,Good curl mechanics in this frame.,27.666492955130366,0,True,True,True,True,True,Good curl mechanics in this frame.
+259,8.633333333333333,left,4.551469664110851,0,True,True,True,True,True,Good curl mechanics in this frame.,28.19746809764446,0,True,True,True,True,True,Good curl mechanics in this frame.
+260,8.666666666666666,left,4.050627418619617,0,True,True,True,True,True,Good curl mechanics in this frame.,28.92046516116348,0,True,True,True,True,True,Good curl mechanics in this frame.
+261,8.7,left,3.607728004681639,0,True,True,True,True,True,Good curl mechanics in this frame.,29.91016503492406,0,True,True,True,True,True,Good curl mechanics in this frame.
+262,8.733333333333333,left,3.181253464849618,0,True,True,True,True,True,Good curl mechanics in this frame.,30.968729175421842,0,True,True,True,True,True,Good curl mechanics in this frame.
+263,8.766666666666667,left,2.9301960438569057,0,True,True,True,True,True,Good curl mechanics in this frame.,32.254167966162896,0,True,True,True,True,True,Good curl mechanics in this frame.
+264,8.8,left,2.646305651136011,0,True,True,True,True,True,Good curl mechanics in this frame.,33.73938634953923,0,True,True,True,True,True,Good curl mechanics in this frame.
+265,8.833333333333334,left,2.517131321178025,0,True,True,True,True,True,Good curl mechanics in this frame.,35.3203160052982,0,True,True,True,True,True,Good curl mechanics in this frame.
+266,8.866666666666667,left,2.59390473285962,0,True,True,True,True,True,Good curl mechanics in this frame.,36.954603805591454,0,True,True,True,True,True,Good curl mechanics in this frame.
+267,8.9,left,2.4538266501228825,0,True,True,True,True,True,Good curl mechanics in this frame.,38.663288944023655,0,True,True,True,True,True,Good curl mechanics in this frame.
+268,8.933333333333334,left,2.524257480049896,0,True,True,True,True,True,Good curl mechanics in this frame.,40.46135659824225,0,True,True,True,True,True,Good curl mechanics in this frame.
+269,8.966666666666667,left,2.7001476657193972,0,True,True,True,True,True,Good curl mechanics in this frame.,42.39989441811288,0,True,True,True,True,True,Good curl mechanics in this frame.
+270,9.0,left,2.6752570247899623,0,True,True,True,True,True,Good curl mechanics in this frame.,44.20331276472299,0,True,True,True,True,True,Good curl mechanics in this frame.
+271,9.033333333333333,left,3.3438602307945664,0,True,True,True,True,True,Good curl mechanics in this frame.,46.17223656839128,0,True,True,True,True,True,Good curl mechanics in this frame.
+272,9.066666666666666,left,3.9423064637478396,0,True,True,True,True,True,Good curl mechanics in this frame.,48.27683642733954,0,True,True,True,True,True,Good curl mechanics in this frame.
+273,9.1,left,4.826223834331811,0,True,True,True,True,True,Good curl mechanics in this frame.,50.625690157498894,0,True,True,True,True,True,Good curl mechanics in this frame.
+274,9.133333333333333,left,5.892750997475628,0,True,True,True,True,True,Good curl mechanics in this frame.,53.26402625538136,0,True,True,True,True,True,Good curl mechanics in this frame.
+275,9.166666666666666,left,7.296234631439743,0,True,True,True,True,True,Good curl mechanics in this frame.,56.28485369098046,0,True,True,True,True,True,Good curl mechanics in this frame.
+276,9.2,left,8.887716350161512,0,True,True,True,True,True,Good curl mechanics in this frame.,59.68689312265719,0,True,True,True,True,True,Good curl mechanics in this frame.
+277,9.233333333333333,left,10.654227378731285,0,True,True,True,True,True,Good curl mechanics in this frame.,63.50437471299037,0,True,True,True,True,True,Good curl mechanics in this frame.
+278,9.266666666666667,left,12.408110403946933,0,True,True,True,True,True,Good curl mechanics in this frame.,67.05799786787946,0,True,True,True,True,True,Good curl mechanics in this frame.
+279,9.3,left,16.481268719268964,0,True,True,True,True,True,Good curl mechanics in this frame.,71.53853054735916,0,False,False,True,True,True,Increase curl depth for better range of motion.
+280,9.333333333333334,left,20.59534510318489,0,True,True,True,True,True,Good curl mechanics in this frame.,75.86153836601369,0,False,False,True,True,True,Increase curl depth for better range of motion.
+281,9.366666666666667,left,25.102951946879152,0,True,True,True,True,True,Good curl mechanics in this frame.,80.27421310693408,0,False,False,True,True,True,Increase curl depth for better range of motion.
+282,9.4,left,34.386736177602366,0,True,True,True,True,True,Good curl mechanics in this frame.,85.09332292718119,0,False,False,True,True,True,Increase curl depth for better range of motion.
+283,9.433333333333334,left,43.248830794956596,0,True,True,True,True,True,Good curl mechanics in this frame.,89.85176612308594,0,False,False,True,True,True,Increase curl depth for better range of motion.
+284,9.466666666666667,left,53.58583413464563,0,True,True,True,True,True,Good curl mechanics in this frame.,95.18420516627583,0,False,False,True,True,True,Increase curl depth for better range of motion.
+285,9.5,left,64.90975884996139,0,True,True,True,True,True,Good curl mechanics in this frame.,100.56732117760029,0,False,False,True,True,True,Increase curl depth for better range of motion.
+286,9.533333333333333,left,77.52895643966973,0,False,False,True,True,True,Increase curl depth for better range of motion.,105.8882986294114,0,False,False,True,True,True,Increase curl depth for better range of motion.
+287,9.566666666666666,left,90.50224311339257,0,False,False,True,True,True,Increase curl depth for better range of motion.,111.32138467870419,0,False,False,True,True,True,Increase curl depth for better range of motion.
+288,9.6,left,101.9550838801745,0,False,False,True,True,True,Increase curl depth for better range of motion.,115.96048602156075,0,False,False,True,True,True,Increase curl depth for better range of motion.
+289,9.633333333333333,left,112.82344090395115,0,False,False,True,True,True,Increase curl depth for better range of motion.,120.66627634251715,0,False,False,True,True,True,Increase curl depth for better range of motion.
+290,9.666666666666666,left,123.66720762030597,0,False,False,True,True,True,Increase curl depth for better range of motion.,125.0604850671227,0,False,False,True,True,True,Increase curl depth for better range of motion.
+291,9.7,right,130.58402203432388,0,False,False,True,True,True,Increase curl depth for better range of motion.,128.79822192972972,0,False,False,True,True,True,Increase curl depth for better range of motion.
+292,9.733333333333333,right,138.12670434766827,0,False,False,True,True,True,Increase curl depth for better range of motion.,132.40271130655057,0,False,False,True,True,True,Increase curl depth for better range of motion.
+293,9.766666666666667,right,143.95568233036835,0,False,False,True,True,True,Increase curl depth for better range of motion.,135.20654969898675,0,False,False,True,True,True,Increase curl depth for better range of motion.
+294,9.8,right,149.36757872252227,0,False,False,True,True,True,Increase curl depth for better range of motion.,137.49212500776173,0,False,False,True,True,True,Increase curl depth for better range of motion.
+295,9.833333333333334,right,153.34866036951956,0,True,True,True,True,True,Good curl mechanics in this frame.,139.3586642012229,0,False,False,True,True,True,Increase curl depth for better range of motion.
+296,9.866666666666667,right,157.200286655529,0,True,True,True,True,True,Good curl mechanics in this frame.,141.16817521753143,0,False,False,True,True,True,Increase curl depth for better range of motion.
+297,9.9,right,160.48102976912367,0,True,True,True,True,True,Good curl mechanics in this frame.,142.7774882994966,0,False,False,True,True,True,Increase curl depth for better range of motion.
+298,9.933333333333334,right,163.59696642541581,0,True,True,True,True,True,Good curl mechanics in this frame.,144.37171302050555,0,False,False,True,True,True,Increase curl depth for better range of motion.
+299,9.966666666666667,right,166.35222392238683,0,True,True,True,True,True,Good curl mechanics in this frame.,146.01354347498858,0,False,False,True,True,True,Increase curl depth for better range of motion.
+300,10.0,right,167.94098943594346,0,True,True,True,True,True,Good curl mechanics in this frame.,147.46068389565545,0,False,False,True,True,True,Increase curl depth for better range of motion.
+301,10.033333333333333,right,169.1395034228172,0,True,True,True,True,True,Good curl mechanics in this frame.,148.76107716262152,0,False,False,True,True,True,Increase curl depth for better range of motion.
+302,10.066666666666666,right,170.3100265132446,0,True,True,True,True,True,Good curl mechanics in this frame.,149.69988687113388,0,False,False,True,True,True,Increase curl depth for better range of motion.
+303,10.1,right,171.08637735204601,0,True,True,True,True,True,Good curl mechanics in this frame.,150.7355572183477,0,True,True,True,True,True,Good curl mechanics in this frame.
+304,10.133333333333333,right,171.87855563422082,0,True,True,True,True,True,Good curl mechanics in this frame.,151.7496066609118,0,True,True,True,True,True,Good curl mechanics in this frame.
+305,10.166666666666666,right,172.50404482363388,0,True,True,True,True,True,Good curl mechanics in this frame.,152.71547474816458,0,True,True,True,True,True,Good curl mechanics in this frame.
+306,10.2,right,173.0701095673248,0,True,True,True,True,True,Good curl mechanics in this frame.,153.69932409095188,0,True,True,True,True,True,Good curl mechanics in this frame.
+307,10.233333333333333,right,173.67024179006225,0,True,True,True,True,True,Good curl mechanics in this frame.,154.70416242429556,0,True,True,True,True,True,Good curl mechanics in this frame.
+308,10.266666666666667,right,174.06952934283757,0,True,True,True,True,True,Good curl mechanics in this frame.,155.63116899112777,0,True,True,True,True,True,Good curl mechanics in this frame.
+309,10.3,right,174.46902063656125,0,True,True,True,True,True,Good curl mechanics in this frame.,156.48451437871384,0,True,True,True,True,True,Good curl mechanics in this frame.
+310,10.333333333333334,right,174.78583699965046,0,True,True,True,True,True,Good curl mechanics in this frame.,157.24623801655875,0,True,True,True,True,True,Good curl mechanics in this frame.
+311,10.366666666666667,right,175.08961108741835,0,True,True,True,True,True,Good curl mechanics in this frame.,158.12037165036665,0,True,True,True,True,True,Good curl mechanics in this frame.
+312,10.4,right,175.33860946421282,0,True,True,True,True,True,Good curl mechanics in this frame.,158.78515294403994,0,True,True,True,True,True,Good curl mechanics in this frame.
+313,10.433333333333334,right,175.52721263192058,0,True,True,True,True,True,Good curl mechanics in this frame.,159.46351120441895,0,True,True,True,True,True,Good curl mechanics in this frame.
+314,10.466666666666667,right,175.80844041730313,0,True,True,True,True,True,Good curl mechanics in this frame.,160.22695582035996,0,True,True,True,True,True,Good curl mechanics in this frame.
+315,10.5,right,176.0606030603499,0,True,True,True,True,True,Good curl mechanics in this frame.,161.29692416163243,0,True,True,True,True,True,Good curl mechanics in this frame.
+316,10.533333333333333,right,176.44313672320075,0,True,True,True,True,True,Good curl mechanics in this frame.,161.88503753708713,0,True,True,True,True,True,Good curl mechanics in this frame.
+317,10.566666666666666,right,176.888599837042,0,True,True,True,True,True,Good curl mechanics in this frame.,162.38881666281617,0,True,True,True,True,True,Good curl mechanics in this frame.
+318,10.6,right,177.31366019583584,0,True,True,True,True,True,Good curl mechanics in this frame.,162.86288769205078,0,True,True,True,True,True,Good curl mechanics in this frame.
+319,10.633333333333333,right,177.7954314791302,0,True,True,True,True,True,Good curl mechanics in this frame.,163.33101483023228,0,True,True,True,True,True,Good curl mechanics in this frame.
+320,10.666666666666666,right,178.10971263707074,0,True,True,True,True,True,Good curl mechanics in this frame.,163.69630224513443,0,True,True,True,True,True,Good curl mechanics in this frame.
+321,10.7,right,178.2729447426777,0,True,True,True,True,True,Good curl mechanics in this frame.,164.37844920121864,0,True,True,True,True,True,Good curl mechanics in this frame.
+322,10.733333333333333,right,178.51730504102045,0,True,True,True,True,True,Good curl mechanics in this frame.,164.6517836409053,0,True,True,True,True,True,Good curl mechanics in this frame.
+323,10.766666666666667,right,178.57945493595503,0,True,True,True,True,True,Good curl mechanics in this frame.,164.69164356033983,0,True,True,True,True,True,Good curl mechanics in this frame.
+324,10.8,right,178.50478198102562,0,True,True,True,True,True,Good curl mechanics in this frame.,164.239643002369,0,True,True,True,True,True,Good curl mechanics in this frame.
+325,10.833333333333334,right,178.24694265851107,0,True,True,True,True,True,Good curl mechanics in this frame.,164.04888860878495,0,True,True,True,True,True,Good curl mechanics in this frame.
+326,10.866666666666667,right,177.84774258282724,0,True,True,True,True,True,Good curl mechanics in this frame.,164.06322671199598,0,True,True,True,True,True,Good curl mechanics in this frame.
+327,10.9,right,177.5110589228965,0,True,True,True,True,True,Good curl mechanics in this frame.,163.64863985179113,0,True,True,True,True,True,Good curl mechanics in this frame.
+328,10.933333333333334,right,177.1029619623856,0,True,True,True,True,True,Good curl mechanics in this frame.,163.45086896719587,0,True,True,True,True,True,Good curl mechanics in this frame.
+329,10.966666666666667,right,176.63558932941436,0,True,True,True,True,True,Good curl mechanics in this frame.,163.10096107649255,0,True,True,True,True,True,Good curl mechanics in this frame.
+330,11.0,right,176.1743185707178,0,True,True,True,True,True,Good curl mechanics in this frame.,161.90230907966674,0,True,True,True,True,True,Good curl mechanics in this frame.
+331,11.033333333333333,right,175.42285973970417,0,True,True,True,True,True,Good curl mechanics in this frame.,161.01972300127179,0,True,True,True,True,True,Good curl mechanics in this frame.
+332,11.066666666666666,right,174.6398653223606,0,True,True,True,True,True,Good curl mechanics in this frame.,160.0692989595817,0,True,True,True,True,True,Good curl mechanics in this frame.
+333,11.1,right,173.85030245339178,0,True,True,True,True,True,Good curl mechanics in this frame.,158.96680882549165,0,True,True,True,True,True,Good curl mechanics in this frame.
+334,11.133333333333333,right,172.69109925171273,0,True,True,True,True,True,Good curl mechanics in this frame.,157.65446297845116,0,True,True,True,True,True,Good curl mechanics in this frame.
+335,11.166666666666666,right,171.70317299097803,0,True,True,True,True,True,Good curl mechanics in this frame.,156.02203655099333,0,True,True,True,True,True,Good curl mechanics in this frame.
+336,11.2,right,170.39024809360996,0,True,True,True,True,True,Good curl mechanics in this frame.,154.65047632290813,0,True,True,True,True,True,Good curl mechanics in this frame.
+337,11.233333333333333,right,168.32246160324837,0,True,True,True,True,True,Good curl mechanics in this frame.,152.94190435601615,0,True,True,True,True,True,Good curl mechanics in this frame.
+338,11.266666666666667,right,165.04521748696243,0,True,True,True,True,True,Good curl mechanics in this frame.,151.08561273338103,0,True,True,True,True,True,Good curl mechanics in this frame.
+339,11.3,right,161.32788370661532,0,True,True,True,True,True,Good curl mechanics in this frame.,149.19970462094167,0,False,False,True,True,True,Increase curl depth for better range of motion.
+340,11.333333333333334,right,156.89494660951038,0,True,True,True,True,True,Good curl mechanics in this frame.,147.04045516966914,0,False,False,True,True,True,Increase curl depth for better range of motion.
+341,11.366666666666667,right,151.3946121805964,0,True,True,True,True,True,Good curl mechanics in this frame.,144.86467166140395,0,False,False,True,True,True,Increase curl depth for better range of motion.
+342,11.4,right,142.13375482251584,0,False,False,True,True,True,Increase curl depth for better range of motion.,141.8001659214788,0,False,False,True,True,True,Increase curl depth for better range of motion.
+343,11.433333333333334,left,130.83407866872082,0,False,False,True,True,True,Increase curl depth for better range of motion.,137.71019258983495,0,False,False,True,True,True,Increase curl depth for better range of motion.
+344,11.466666666666667,left,118.87242294432956,0,False,False,True,True,True,Increase curl depth for better range of motion.,132.46320729982742,0,False,False,True,True,True,Increase curl depth for better range of motion.
+345,11.5,left,105.19612654038922,0,False,False,True,True,True,Increase curl depth for better range of motion.,126.13463892971497,0,False,False,True,True,True,Increase curl depth for better range of motion.
+346,11.533333333333333,left,92.04358647918508,0,False,False,True,True,True,Increase curl depth for better range of motion.,119.70693306782547,0,False,False,True,True,True,Increase curl depth for better range of motion.
+347,11.566666666666666,left,78.85630937456965,0,False,False,True,True,True,Increase curl depth for better range of motion.,112.71551597545486,0,False,False,True,True,True,Increase curl depth for better range of motion.
+348,11.6,left,66.07582009525667,0,True,True,True,True,True,Good curl mechanics in this frame.,105.76100461291766,0,False,False,True,True,True,Increase curl depth for better range of motion.
+349,11.633333333333333,left,53.06709533471717,0,True,True,True,True,True,Good curl mechanics in this frame.,98.28816030525057,0,False,False,True,True,True,Increase curl depth for better range of motion.
+350,11.666666666666666,left,40.837237072570275,0,True,True,True,True,True,Good curl mechanics in this frame.,90.39399129158102,0,False,False,True,True,True,Increase curl depth for better range of motion.
+351,11.7,left,32.09165346036147,0,True,True,True,True,True,Good curl mechanics in this frame.,83.06909703597834,0,False,False,True,True,True,Increase curl depth for better range of motion.
+352,11.733333333333333,left,25.558563156587237,0,True,True,True,True,True,Good curl mechanics in this frame.,76.63410148562096,0,False,False,True,True,True,Increase curl depth for better range of motion.
+353,11.766666666666667,left,19.34888351046054,0,True,True,True,True,True,Good curl mechanics in this frame.,70.8859251427157,0,False,False,True,True,True,Increase curl depth for better range of motion.
+354,11.8,left,15.031183582614062,0,True,True,True,True,True,Good curl mechanics in this frame.,66.21430381663579,0,True,True,True,True,True,Good curl mechanics in this frame.
+355,11.833333333333334,left,10.932318343390392,0,True,True,True,True,True,Good curl mechanics in this frame.,61.344331184995795,0,True,True,True,True,True,Good curl mechanics in this frame.
+356,11.866666666666667,left,8.239096913614258,0,True,True,True,True,True,Good curl mechanics in this frame.,57.304926670308454,0,True,True,True,True,True,Good curl mechanics in this frame.
+357,11.9,left,5.88829261474624,0,True,True,True,True,True,Good curl mechanics in this frame.,53.38989786598298,0,True,True,True,True,True,Good curl mechanics in this frame.
+358,11.933333333333334,left,4.392967350048369,0,True,True,True,True,True,Good curl mechanics in this frame.,50.17775229673717,0,True,True,True,True,True,Good curl mechanics in this frame.
+359,11.966666666666667,left,3.4218173621338526,0,True,True,True,True,True,Good curl mechanics in this frame.,47.150409299068286,0,True,True,True,True,True,Good curl mechanics in this frame.
+360,12.0,left,3.043237472321618,0,True,True,True,True,True,Good curl mechanics in this frame.,44.4388466900125,0,True,True,True,True,True,Good curl mechanics in this frame.
+361,12.033333333333333,left,3.118637441316272,0,True,True,True,True,True,Good curl mechanics in this frame.,41.97918772729098,0,True,True,True,True,True,Good curl mechanics in this frame.
+362,12.066666666666666,left,3.5881175576746216,0,True,True,True,True,True,Good curl mechanics in this frame.,39.64106734595248,0,True,True,True,True,True,Good curl mechanics in this frame.
+363,12.1,left,4.156496922577318,0,True,True,True,True,True,Good curl mechanics in this frame.,37.131262734375476,0,True,True,True,True,True,Good curl mechanics in this frame.
+364,12.133333333333333,left,4.697342653804077,0,True,True,True,True,True,Good curl mechanics in this frame.,35.01677847697644,0,True,True,True,True,True,Good curl mechanics in this frame.
+365,12.166666666666666,left,5.239153739235832,0,True,True,True,True,True,Good curl mechanics in this frame.,32.80264754318463,0,True,True,True,True,True,Good curl mechanics in this frame.
+366,12.2,left,5.575810673642098,0,True,True,True,True,True,Good curl mechanics in this frame.,30.917645641257664,0,True,True,True,True,True,Good curl mechanics in this frame.
+367,12.233333333333333,left,6.317207774732623,0,True,True,True,True,True,Good curl mechanics in this frame.,29.150394938991813,0,True,True,True,True,True,Good curl mechanics in this frame.
+368,12.266666666666667,left,6.986657379114153,0,True,True,True,True,True,Good curl mechanics in this frame.,27.75662247894813,0,True,True,True,True,True,Good curl mechanics in this frame.
+369,12.3,left,7.428519447802914,0,True,True,True,True,True,Good curl mechanics in this frame.,26.585487889658665,0,True,True,True,True,True,Good curl mechanics in this frame.
+370,12.333333333333334,left,7.76081740432123,0,True,True,True,True,True,Good curl mechanics in this frame.,25.57922153658065,0,True,True,True,True,True,Good curl mechanics in this frame.
+371,12.366666666666667,left,8.053161872958913,0,True,True,True,True,True,Good curl mechanics in this frame.,24.992125021605407,0,True,True,True,True,True,Good curl mechanics in this frame.
+372,12.4,left,8.312096775359139,0,True,True,True,True,True,Good curl mechanics in this frame.,24.7910752721762,0,True,True,True,True,True,Good curl mechanics in this frame.
+373,12.433333333333334,left,8.550065803040292,0,True,True,True,True,True,Good curl mechanics in this frame.,24.59995481730938,0,True,True,True,True,True,Good curl mechanics in this frame.
+374,12.466666666666667,left,8.743602198267427,0,True,True,True,True,True,Good curl mechanics in this frame.,24.51947004570383,0,True,True,True,True,True,Good curl mechanics in this frame.
+375,12.5,left,8.89581115400494,0,True,True,True,True,True,Good curl mechanics in this frame.,24.550956834859672,0,True,True,True,True,True,Good curl mechanics in this frame.
+376,12.533333333333333,left,8.851383897545015,0,True,True,True,True,True,Good curl mechanics in this frame.,24.637554479811907,0,True,True,True,True,True,Good curl mechanics in this frame.
+377,12.566666666666666,left,8.58514010822835,0,True,True,True,True,True,Good curl mechanics in this frame.,24.810202910111435,0,True,True,True,True,True,Good curl mechanics in this frame.
+378,12.6,left,8.349349545990776,0,True,True,True,True,True,Good curl mechanics in this frame.,24.998029355305537,0,True,True,True,True,True,Good curl mechanics in this frame.
+379,12.633333333333333,left,7.9437228861202795,0,True,True,True,True,True,Good curl mechanics in this frame.,25.206249347715524,0,True,True,True,True,True,Good curl mechanics in this frame.
+380,12.666666666666666,left,7.670865029866805,0,True,True,True,True,True,Good curl mechanics in this frame.,25.495249857364474,0,True,True,True,True,True,Good curl mechanics in this frame.
+381,12.7,left,7.378986794566635,0,True,True,True,True,True,Good curl mechanics in this frame.,25.862107847032142,0,True,True,True,True,True,Good curl mechanics in this frame.
+382,12.733333333333333,left,7.042794623776609,0,True,True,True,True,True,Good curl mechanics in this frame.,26.03056537152714,0,True,True,True,True,True,Good curl mechanics in this frame.
+383,12.766666666666667,left,6.78321823392668,0,True,True,True,True,True,Good curl mechanics in this frame.,26.322186621066894,0,True,True,True,True,True,Good curl mechanics in this frame.
+384,12.8,left,6.54444688907895,0,True,True,True,True,True,Good curl mechanics in this frame.,26.83133350576897,0,True,True,True,True,True,Good curl mechanics in this frame.
+385,12.833333333333334,left,6.241105334148771,0,True,True,True,True,True,Good curl mechanics in this frame.,27.38864997997979,0,True,True,True,True,True,Good curl mechanics in this frame.
+386,12.866666666666667,left,5.904201455413411,0,True,True,True,True,True,Good curl mechanics in this frame.,28.430903665397196,0,True,True,True,True,True,Good curl mechanics in this frame.
+387,12.9,left,5.287487540094268,0,True,True,True,True,True,Good curl mechanics in this frame.,29.7991578354235,0,True,True,True,True,True,Good curl mechanics in this frame.
+388,12.933333333333334,left,4.899296467141726,0,True,True,True,True,True,Good curl mechanics in this frame.,31.360860916673328,0,True,True,True,True,True,Good curl mechanics in this frame.
+389,12.966666666666667,left,4.237157648938525,0,True,True,True,True,True,Good curl mechanics in this frame.,32.98928497879546,0,True,True,True,True,True,Good curl mechanics in this frame.
+390,13.0,left,3.805208511549501,0,True,True,True,True,True,Good curl mechanics in this frame.,34.63792618701676,0,True,True,True,True,True,Good curl mechanics in this frame.
+391,13.033333333333333,left,3.382010975096017,0,True,True,True,True,True,Good curl mechanics in this frame.,36.73882493364474,0,True,True,True,True,True,Good curl mechanics in this frame.
+392,13.066666666666666,left,2.7058757279259567,0,True,True,True,True,True,Good curl mechanics in this frame.,39.08538485289921,0,True,True,True,True,True,Good curl mechanics in this frame.
+393,13.1,left,2.020712537388362,0,True,True,True,True,True,Good curl mechanics in this frame.,41.40104888748885,0,True,True,True,True,True,Good curl mechanics in this frame.
+394,13.133333333333333,left,1.8936418788453058,0,True,True,True,True,True,Good curl mechanics in this frame.,43.93589139167679,0,True,True,True,True,True,Good curl mechanics in this frame.
+395,13.166666666666666,left,2.2004047231449295,0,True,True,True,True,True,Good curl mechanics in this frame.,46.23816415419337,0,True,True,True,True,True,Good curl mechanics in this frame.
+396,13.2,left,3.1304759206048263,0,True,True,True,True,True,Good curl mechanics in this frame.,48.64503144304653,0,True,True,True,True,True,Good curl mechanics in this frame.
+397,13.233333333333333,left,4.12627246064066,0,True,True,True,True,True,Good curl mechanics in this frame.,51.2387187780088,0,True,True,True,True,True,Good curl mechanics in this frame.
+398,13.266666666666667,left,5.436975412242074,0,True,True,True,True,True,Good curl mechanics in this frame.,54.14666447137126,0,True,True,True,True,True,Good curl mechanics in this frame.
+399,13.3,left,7.1997257858882495,0,True,True,True,True,True,Good curl mechanics in this frame.,57.37834905916574,0,True,True,True,True,True,Good curl mechanics in this frame.
+400,13.333333333333334,left,9.940369068652272,0,True,True,True,True,True,Good curl mechanics in this frame.,60.8248601637148,0,True,True,True,True,True,Good curl mechanics in this frame.
+401,13.366666666666667,left,13.22033932475211,0,True,True,True,True,True,Good curl mechanics in this frame.,64.69710376795385,0,True,True,True,True,True,Good curl mechanics in this frame.
+402,13.4,left,16.583154906363436,0,True,True,True,True,True,Good curl mechanics in this frame.,68.89107468208914,0,True,True,True,True,True,Good curl mechanics in this frame.
+403,13.433333333333334,left,20.76059140682453,0,True,True,True,True,True,Good curl mechanics in this frame.,73.51779971526408,0,False,False,True,True,True,Increase curl depth for better range of motion.
+404,13.466666666666667,left,27.109611915492547,0,True,True,True,True,True,Good curl mechanics in this frame.,78.07162916849072,0,False,False,True,True,True,Increase curl depth for better range of motion.
+405,13.5,left,34.134771349589194,0,True,True,True,True,True,Good curl mechanics in this frame.,82.12292907427923,0,False,False,True,True,True,Increase curl depth for better range of motion.
+406,13.533333333333333,left,39.5194545028691,0,True,True,True,True,True,Good curl mechanics in this frame.,85.61600203412166,0,False,False,True,True,True,Increase curl depth for better range of motion.
+407,13.566666666666666,left,46.632089353157525,0,True,True,True,True,True,Good curl mechanics in this frame.,89.32034896392997,0,False,False,True,True,True,Increase curl depth for better range of motion.
+408,13.6,left,55.08831254236139,0,True,True,True,True,True,Good curl mechanics in this frame.,93.94058800047765,0,False,False,True,True,True,Increase curl depth for better range of motion.
+409,13.633333333333333,left,65.71370781943563,0,True,True,True,True,True,Good curl mechanics in this frame.,99.07267098499972,0,False,False,True,True,True,Increase curl depth for better range of motion.
+410,13.666666666666666,left,76.8746743060048,0,False,False,True,True,True,Increase curl depth for better range of motion.,103.71907031561916,0,False,False,True,True,True,Increase curl depth for better range of motion.
+411,13.7,left,88.31592881155667,0,False,False,True,True,True,Increase curl depth for better range of motion.,108.05681507663525,0,False,False,True,True,True,Increase curl depth for better range of motion.
+412,13.733333333333333,left,99.10988822678175,0,False,False,True,True,True,Increase curl depth for better range of motion.,112.15782184813767,0,False,False,True,True,True,Increase curl depth for better range of motion.
+413,13.766666666666667,left,108.63545461347843,0,False,False,True,True,True,Increase curl depth for better range of motion.,116.46140199261968,0,False,False,True,True,True,Increase curl depth for better range of motion.
+414,13.8,left,117.28092880885168,0,False,False,True,True,True,Increase curl depth for better range of motion.,121.21344164626599,0,False,False,True,True,True,Increase curl depth for better range of motion.
+415,13.833333333333334,right,127.67805430224286,0,False,False,True,True,True,Increase curl depth for better range of motion.,126.20521168098695,0,False,False,True,True,True,Increase curl depth for better range of motion.
+416,13.866666666666667,right,136.91540799598906,0,False,False,True,True,True,Increase curl depth for better range of motion.,130.78320940373368,0,False,False,True,True,True,Increase curl depth for better range of motion.
+417,13.9,right,144.2379837453176,0,False,False,True,True,True,Increase curl depth for better range of motion.,133.9364779535963,0,False,False,True,True,True,Increase curl depth for better range of motion.
+418,13.933333333333334,right,148.6702608972161,0,False,False,True,True,True,Increase curl depth for better range of motion.,136.31226040454692,0,False,False,True,True,True,Increase curl depth for better range of motion.
+419,13.966666666666667,right,152.48245964694348,0,True,True,True,True,True,Good curl mechanics in this frame.,138.57513078268323,0,False,False,True,True,True,Increase curl depth for better range of motion.
+420,14.0,right,156.1207166873602,0,True,True,True,True,True,Good curl mechanics in this frame.,140.70462730176686,0,False,False,True,True,True,Increase curl depth for better range of motion.
+421,14.033333333333333,right,159.5990332912624,0,True,True,True,True,True,Good curl mechanics in this frame.,142.49598911232297,0,False,False,True,True,True,Increase curl depth for better range of motion.
+422,14.066666666666666,right,162.06593119144458,0,True,True,True,True,True,Good curl mechanics in this frame.,144.1802144044358,0,False,False,True,True,True,Increase curl depth for better range of motion.
+423,14.1,right,164.31073751692247,0,True,True,True,True,True,Good curl mechanics in this frame.,145.5586933313198,0,False,False,True,True,True,Increase curl depth for better range of motion.
+424,14.133333333333333,right,166.1563592985809,0,True,True,True,True,True,Good curl mechanics in this frame.,146.8880941252617,0,False,False,True,True,True,Increase curl depth for better range of motion.
+425,14.166666666666666,right,167.29226922036045,0,True,True,True,True,True,Good curl mechanics in this frame.,148.08364777614892,0,False,False,True,True,True,Increase curl depth for better range of motion.
+426,14.2,right,168.44966180378364,0,True,True,True,True,True,Good curl mechanics in this frame.,149.39825087893416,0,False,False,True,True,True,Increase curl depth for better range of motion.
+427,14.233333333333333,right,169.4567137926702,0,True,True,True,True,True,Good curl mechanics in this frame.,150.49604582474782,0,True,True,True,True,True,Good curl mechanics in this frame.
+428,14.266666666666667,right,170.25928378944207,0,True,True,True,True,True,Good curl mechanics in this frame.,151.61930022082012,0,True,True,True,True,True,Good curl mechanics in this frame.
+429,14.3,right,171.01699575555023,0,True,True,True,True,True,Good curl mechanics in this frame.,152.68294964909663,0,True,True,True,True,True,Good curl mechanics in this frame.
+430,14.333333333333334,right,171.38668225324224,0,True,True,True,True,True,Good curl mechanics in this frame.,153.7004886537064,0,True,True,True,True,True,Good curl mechanics in this frame.
+431,14.366666666666667,right,171.76043847848075,0,True,True,True,True,True,Good curl mechanics in this frame.,154.4868602485932,0,True,True,True,True,True,Good curl mechanics in this frame.
+432,14.4,right,172.2278266691679,0,True,True,True,True,True,Good curl mechanics in this frame.,155.25259890670213,0,True,True,True,True,True,Good curl mechanics in this frame.
+433,14.433333333333334,right,172.78413171543406,0,True,True,True,True,True,Good curl mechanics in this frame.,155.96854415511535,0,True,True,True,True,True,Good curl mechanics in this frame.
+434,14.466666666666667,right,173.36662277483742,0,True,True,True,True,True,Good curl mechanics in this frame.,156.8467460644829,0,True,True,True,True,True,Good curl mechanics in this frame.
+435,14.5,right,173.8716410547428,0,True,True,True,True,True,Good curl mechanics in this frame.,157.6648571628624,0,True,True,True,True,True,Good curl mechanics in this frame.
+436,14.533333333333333,right,174.29939204330248,0,True,True,True,True,True,Good curl mechanics in this frame.,158.49126148164953,0,True,True,True,True,True,Good curl mechanics in this frame.
+437,14.566666666666666,right,174.65142041033477,0,True,True,True,True,True,Good curl mechanics in this frame.,159.2112179799761,0,True,True,True,True,True,Good curl mechanics in this frame.
+438,14.6,right,174.89387625231427,0,True,True,True,True,True,Good curl mechanics in this frame.,159.98121417952927,0,True,True,True,True,True,Good curl mechanics in this frame.
+439,14.633333333333333,right,175.14904141908707,0,True,True,True,True,True,Good curl mechanics in this frame.,160.65575673171233,0,True,True,True,True,True,Good curl mechanics in this frame.
+440,14.666666666666666,right,175.3583324616705,0,True,True,True,True,True,Good curl mechanics in this frame.,161.28935266864318,0,True,True,True,True,True,Good curl mechanics in this frame.
+441,14.7,right,175.47799490866205,0,True,True,True,True,True,Good curl mechanics in this frame.,161.60402597532914,0,True,True,True,True,True,Good curl mechanics in this frame.
+442,14.733333333333333,right,175.54072865165438,0,True,True,True,True,True,Good curl mechanics in this frame.,161.87711046724198,0,True,True,True,True,True,Good curl mechanics in this frame.
+443,14.766666666666667,right,175.43707017755105,0,True,True,True,True,True,Good curl mechanics in this frame.,161.88138048750943,0,True,True,True,True,True,Good curl mechanics in this frame.
+444,14.8,right,175.40700431823055,0,True,True,True,True,True,Good curl mechanics in this frame.,162.13607531934787,0,True,True,True,True,True,Good curl mechanics in this frame.
+445,14.833333333333334,right,175.43842097124576,0,True,True,True,True,True,Good curl mechanics in this frame.,162.32689537442866,0,True,True,True,True,True,Good curl mechanics in this frame.
+446,14.866666666666667,right,175.2439139777929,0,True,True,True,True,True,Good curl mechanics in this frame.,162.42833528465255,0,True,True,True,True,True,Good curl mechanics in this frame.
