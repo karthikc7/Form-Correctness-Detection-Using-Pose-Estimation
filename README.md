@@ -97,7 +97,5 @@ data/output/bicep_curl_metrics.csv
 * Rule-based evaluation logic
 * Independent rep-counting per arm
 
----
 
 
-Just tell me **"generate the GitHub info"**.
