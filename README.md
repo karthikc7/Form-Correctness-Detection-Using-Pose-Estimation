@@ -91,11 +91,12 @@ data/output/bicep_curl_metrics.csv
 
 ## **Deliverables Included**
 
-* Python source code (clean, modular, no plagiarism)
+* Python source code
 * Full-body annotated output video
 * Frame-wise analytics CSV
 * Rule-based evaluation logic
 * Independent rep-counting per arm
+
 
 
 
